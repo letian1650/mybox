@@ -1,5 +1,5 @@
 //以下内容为互联网收集，只为自用……
-{  "spider": "/0928.jar",
+{  "spider": "/xc14.jar",
   "sites": [
 // {
 //      "key": "應用商店",
@@ -24,7 +24,7 @@
       "name": "🈚私人影视",
       "type": 1,
       "playerType": 2,
-      "api": "https://mov.cswklt.top/api.php/provide/vod/"
+      "api": "https://mov.cswklt.top/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
