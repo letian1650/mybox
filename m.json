@@ -1,5 +1,5 @@
 //以下内容为互联网收集，只为自用……
-{
+{  "spider": "/xc14.jar",
   "sites": [
 // {
 //      "key": "應用商店",
@@ -1516,9 +1516,6 @@
     "飞云"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  //"spider":"./tvb/0627.jar",
-  //"spider": "./0928.jar",
-  "spider": "/0928.jar",
   //"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
   //"proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
   //]}]}],
