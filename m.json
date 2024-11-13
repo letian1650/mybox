@@ -17,16 +17,14 @@
       "name": "🅱豆瓣推荐",
       "type": 3,
       "api": "csp_Douban",
-      "searchable": 0,
-      "jar": "https://www.cswklt.top/xc14.jar;md5;9733ac5a326a4ce26dea8a5a1e3be41b"
+      "searchable": 0
     },
     {
       "key": "csp_xml_私人影视",
       "name": "🈚私人影视",
       "type": 1,
       "playerType": 2,
-      "api": "https://mov.cswklt.top/api.php/provide/vod/",
-      "jar": "https://www.cswklt.top/xc14.jar;md5;9733ac5a326a4ce26dea8a5a1e3be41b",
+      "api": "https://mov.cswklt.top/api.php/provide/vod/"
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
@@ -196,8 +194,7 @@
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://www.cswklt.top/xc14.jar;md5;9733ac5a326a4ce26dea8a5a1e3be41b",
+      "filterable": 1
       "ext": {
         "线路标题": "<*>&&</*>",
         "线路数组": ">&&<[排序:线路5>线路1]",
@@ -224,9 +221,7 @@
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://www.cswklt.top/xc14.jar;md5;9733ac5a326a4ce26dea8a5a1e3be41b"
-     // "jar": "https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/jar/xc14.jar;md5;9733ac5a326a4ce26dea8a5a1e3be41b"
+      "changeable": 1
     }, {
       "key": "看片狂人",
       "name": "🐜看片狂人",
@@ -236,7 +231,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://www.cswklt.top/xc14.jar;md5;9733ac5a326a4ce26dea8a5a1e3be41b",
       "ext": {
         "免嗅": "1",
         "\u526f\u6807\u9898": "\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</span>",
@@ -611,8 +605,7 @@
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
-      "quickSearch": 1,
-      "jar": "https://www.cswklt.top/0928.jar"
+      "quickSearch": 1
     },
     //{"key":"csp_xml_外国影源","name":"🐝外国影源","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
     {
@@ -622,8 +615,7 @@
       "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
-      "quickSearch": 1,
-      "jar": "https://www.cswklt.top/0928.jar"
+      "quickSearch": 1
     }, {
       "key": "csp_xml_飞速采集",
       "name": "🐝飞速采集",
@@ -1526,7 +1518,7 @@
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
   //"spider":"./tvb/0627.jar",
   //"spider": "./0928.jar",
-  "spider": "https://www.cswklt.top/0928.jar",
+  "spider": "/0928.jar",
   //"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
   //"proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
   //]}]}],
