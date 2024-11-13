@@ -276,7 +276,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./bilibili/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"
+      "ext": "./%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"
     }, {
       "key": "小学",
       "name": "📚┃小学┃课堂",
@@ -285,7 +285,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./bilibili/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"
+      "ext": "./%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"
     }, {
       "key": "初中",
       "name": "📚┃初中┃课堂",
@@ -294,7 +294,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./bilibili/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
+      "ext": "./%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
     }, {
       "key": "高中",
       "name": "📚┃高中┃课堂",
@@ -303,7 +303,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./bilibili/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
+      "ext": "./%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
     }, {
       "key": "MV大全",
       "name": "MV大全",
