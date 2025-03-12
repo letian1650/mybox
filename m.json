@@ -287,166 +287,265 @@
         "key": "墨斗",
         "name": "墨斗|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://www.mdzyapi.com/api.php/provide/vod/"
     }, {
         "key": "黑木耳",
         "name": "黑木耳|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://json02.heimuer.xyz/api.php/provide/vod/"
     }, {
         "key": "华为吧",
         "name": "华为吧|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://hw8.live/api.php/provide/vod/"
     }, {
         "key": "腐剧",
         "name": "腐剧|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "http://www.fuju2024.cc:8013/ruifenglb_api.php/provide/vod/"
     }, {
         "key": "金鹰",
         "name": "金鹰|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://jinyingzy.com/api.php/provide/vod/"
     }, {
         "key": "OK",
         "name": "OK|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://okzyw9.com/api.php/provide/vod/"
     }, {
         "key": "宝片",
         "name": "宝片|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://zpsps.com/api.php/provide/vod/"
     }, {
         "key": "小黄人",
         "name": "小黄人|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/"
     }, {
         "key": "牛牛",
         "name": "牛牛|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://api.niuniuzy.me/api.php/provide/vod/"
     }, {
         "key": "丫丫",
         "name": "丫丫|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://cj.yayazy.net/api.php/provide/vod/"
     }, {
         "key": "影图",
         "name": "影图|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://cj.vodimg.top/api.php/provide/vod/"
     }, {
         "key": "U酷",
         "name": "U酷|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://api.ukuapi.com/api.php/provide/vod/"
     }, {
         "key": "豪华",
         "name": "豪华|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://hhzyapi.com/api.php/provide/vod"
     }, {
         "key": "极速",
         "name": "极速|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://jszyapi.com/api.php/provide/vod"
     }, {
         "key": "索尼",
         "name": "索尼|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://suoniapi.com/api.php/provide/vod/"
     }, {
         "key": "ikun",
         "name": "ikun|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://ikunzyapi.com/api.php/provide/vod/"
     }, {
         "key": "非凡",
         "name": "非凡|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "http://cj.ffzyapi.com/api.php/provide/vod/"
     }, {
         "key": "量子",
         "name": "量子|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://cj.lziapi.com/api.php/provide/vod/"
     }, {
         "key": "暴风",
         "name": "暴风|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://bfzyapi.com/api.php/provide/vod/"
     }, {
         "key": "红牛",
         "name": "红牛|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://www.hongniuzy2.com/api.php/provide/vod/"
     }, {
         "key": "快车",
         "name": "快车|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/"
     }, {
         "key": "闪电",
         "name": "闪电|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "http://sdzyapi.com/api.php/provide/vod/"
     }, {
         "key": "樱花",
         "name": "樱花|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/"
     }, {
         "key": "卧龙",
         "name": "卧龙|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://collect.wolongzyw.com/api.php/provide/vod/"
     }, {
         "key": "飘花",
         "name": "飘花|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "http://www.ahjiuman.com/api.php/provide/vod/at/json"
     }, {
         "key": "虎牙",
         "name": "虎牙|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://www.huyaapi.com/api.php/provide/vod/"
     }, {
         "key": "飘零",
         "name": "飘零|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://p2100.net/api.php/provide/vod/"
     }, {
         "key": "无尽",
         "name": "无尽|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://api.wujinapi.com/api.php/provide/vod/"
     }, {
         "key": "速博",
         "name": "速博|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://subocaiji.com/api.php/provide/vod/"
     }, {
         "key": "魔都",
         "name": "魔都|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://caiji.moduapi.cc/api.php/provide/vod/"
     }, {
         "key": "最大",
         "name": "最大|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "http://zuidazy.me/api.php/provide/vod/"
     }, {
         "key": "火狐",
         "name": "火狐|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://hhzyapi.com/api.php/provide/vod/"
     }, {
         "key": "新浪",
         "name": "新浪|点播",
         "type": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
         "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"
     }, {
         "key": "MV大全",
